@@ -1,0 +1,19 @@
+
+body,.input__fild__container{
+    background-color: rgba(227, 227, 227, 0.645);
+}
+
+.element__container{
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+button{
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    
+}
